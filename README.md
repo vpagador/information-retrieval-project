@@ -1,4 +1,4 @@
-# publications-IR-project
+# Search-Engine-Project
 Shortcut Links to:
 
 * [Web Scraper using Scrapy](https://github.com/vpagador/publications-IR-project/blob/main/search_engine_project/crawler/crawler/crawler/spiders/publication_spider.py)
